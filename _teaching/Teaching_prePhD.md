@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/Teaching_prePhD
 venue: "University 1, Department"
-date: 2014-2019
+date: 2014-01-01
 location: "Copenhagen, Denmark"
 ---
 
