@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and graduate courses"
 permalink: /teaching/Teaching_phd
 venue: "University 1, Department"
-date: 2019-2022
+date: 2019-08-15
 location: "Copenhagen, Denmark"
 ---
 
