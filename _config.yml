@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Phillip Bredahl Mogensen"
-  avatar           : "profile.png"
+  avatar           : "mogensen_phillip_bredahl.jpg"
   bio              : "I am a PhD student in mathematical statistics. My interests are in causality, theoretical statistics and test theory."
   location         : "Copenhagen, Denmark"
   employer         :  "University of Copenhagen"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=AuTihsEAAAAJ&hl=da"
+  email            : "pbm@math.ku.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "phillipmogensen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-4114-1534"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
