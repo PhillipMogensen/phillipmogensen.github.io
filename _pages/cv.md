@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Mathematic-Economics, University of Copenhagen, 2017
+* MSc in Mathematic-Economics, University of Copenhagen, 2019
+* Ph.D in Mathematical Statistics, University of Copenhagen, 2022 (expected)
 
-Work experience
+Work experience (non teaching)
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Director, JP Statistics ApS, 2019--current
+* Research Assistant, University of Copenhagen, 2019
+* Student Assistant in Biostatistics, Novo Nordisk, 2017-2019
+* Student Assistant in Statistics, Rigshospitale, 2016-2017
+* Student Assistant in Accounting, Andersen Accounting and Consultion, 2014-2017
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Teaching Experience
+=====
+* University of Copenhagen:
+  * Introduction to Mathematics, 2015
+  * Statistics for Biochemists, 2017 and 2019
+  * Statistics and Probability, 2016
+  * Statistical Dataanalysis 2, 2016
+  * Statistics 2, 2017
+  * Statistical Dataanalysis 1, 2017
+  * Measure and Integraltheory, 2017
+  * Basic Lifeinsurance 1, 2019
+  * Applied Statistics, 2020 and 2021
+  * Computational Statistics, 2020 and 2021
+* Other
+  * Tutor in mathematics, physics and chemistry, MentorDanmark, 2014-2017
   
-Skills
+Programming and software
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Highly experience with:
+  * Python 3
+  * R
+  * SQL
+  * SAS
+* Some experience with:
+  * VBA
+  * GAMS
+  * MatLab
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
