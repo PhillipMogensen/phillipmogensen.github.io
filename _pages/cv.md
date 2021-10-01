@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* BSc in Mathematic-Economics, University of Copenhagen, 2017
-* MSc in Mathematic-Economics, University of Copenhagen, 2019
 * Ph.D in Mathematical Statistics, University of Copenhagen, 2022 (expected)
+  * Working on multiple testing, combination testing, causal discovery and invariant causal prediction. Focus on application to high-dimensional datasets.
+* MSc in Mathematic-Economics, University of Copenhagen, 2019
+  * Master thesis: Greedt Learning of Causal Structures in Additive Noise Models.
+* BSc in Mathematic-Economics, University of Copenhagen, 2017
 
 Work experience (non teaching)
 ======
