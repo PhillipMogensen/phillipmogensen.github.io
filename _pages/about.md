@@ -10,6 +10,7 @@ redirect_from:
 
 News
 ======
+* 2<sup>nd</sup> of February, 2022: Our paper `Invariant Ancestry Search`, which gives a novel approach to estimating sets of causal ancestors using Invariant Causal Prediction methods, is now [live on arXiv](https://arxiv.org/abs/2202.00913)
 * 13<sup>th</sup> of August, 2021: The R-package `TMTI`, implementing the methods from our paper `'Too Many, Too Improbable' test statistics: A general method for testing joint hypotheses and controlling the k-FWER` has been published on [CRAN](https://cran.r-project.org/web/packages/TMTI/index.html). [![](https://cranlogs.r-pkg.org/badges/TMTI)](https://cran.r-project.org/package=TMTI) 
 * 10<sup>th</sup> of August, 2021: Our paper `'Too Many, Too Improbable' test statistics: A general method for testing joint hypotheses and controlling the k-FWER` is now on [arXiv](https://arxiv.org/abs/2108.04731)
 * 19<sup>th</sup> of August, 2020: The paper `Causal structure learning from time series: Large regression coefficients may predict causal links better in practice than small p-values` has been accepted into PMLR and is now available at [PMLR online](http://proceedings.mlr.press/v123/).
