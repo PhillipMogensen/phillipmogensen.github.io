@@ -10,6 +10,8 @@ redirect_from:
 
 News
 ======
+* 1<sup>st</sup> of September, 2022: I have started a new position as data scientist at ATP!
+* July, 2022: Our paper `Invariant Ancestry Search`, has been accepted into the 39<sup>th</sup> annual ICML and can be accessed [here](https://proceedings.mlr.press/v162/mogensen22a.html)
 * 2<sup>nd</sup> of February, 2022: Our paper `Invariant Ancestry Search`, which gives a novel approach to estimating sets of causal ancestors using Invariant Causal Prediction methods, is now [live on arXiv](https://arxiv.org/abs/2202.00913)
 * 13<sup>th</sup> of August, 2021: The R-package `TMTI`, implementing the methods from our paper `'Too Many, Too Improbable' test statistics: A general method for testing joint hypotheses and controlling the k-FWER` has been published on [CRAN](https://cran.r-project.org/web/packages/TMTI/index.html). [![](https://cranlogs.r-pkg.org/badges/TMTI)](https://cran.r-project.org/package=TMTI) 
 * 10<sup>th</sup> of August, 2021: Our paper `'Too Many, Too Improbable' test statistics: A general method for testing joint hypotheses and controlling the k-FWER` is now on [arXiv](https://arxiv.org/abs/2108.04731)
