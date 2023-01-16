@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Phillip Bredahl Mogensen, PhD student"
+title                    : "Phillip Bredahl Mogensen, PhD"
 title_separator          : "-"
 name                     : &name "Phillip Bredahl Mogensen"
-description              : &description "I am a PhD student in mathematical statistics at the Depart of Mathematics, University of Copenhagen."
+description              : &description "I am a PhD in mathematical statistics, currently working as a data scientist."
 url                      : https://phillipmogensen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "phillipmogensen/phillipmogensen.github.io"
